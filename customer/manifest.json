@@ -1,0 +1,15 @@
+{
+  "background_color": "#2c406e",
+  "description": "<?= ucwords($getStoreData->name); ?>",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "assets/images/pwa150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "<?= ucwords($getStoreData->name); ?>",
+  "short_name": "<?= ucwords($getStoreData->name); ?>",
+  "start_url": "index.php"
+}
