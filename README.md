@@ -4,9 +4,17 @@ A comprehensive food delivery application featuring three main user roles: **Adm
 
 - **Admin**: Manage menus, orders, payment records and user accounts. 
 - **Dispatcher**: Allocate orders to delivery personnel and track delivery status. 
-- **User**: Browse restaurants, place orders, and track delivery in real time. 
+- **User**: Browse menu's, place orders, and track delivery in real time. 
 
 This project offers a seamless experience for managing food delivery services while ensuring efficient order fulfillment and user satisfaction.
+
+# Technologies Used 
+ - **HTML**
+ - **CSS**
+ - **Bootstrap**
+ - **JavaScript**
+ - **PHP**
+ - **MySQL**
 
 # Screenshots
 ![Screenshot_20240410-095605](https://github.com/user-attachments/assets/8f5842fe-1eff-4d50-bb04-41b8fbf8a44f)
